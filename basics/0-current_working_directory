@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "/holbertonschool-shell/basics/0-current_working_directory\n"
+realpath=/holbertonschool-shell/basics/0-current_working_directory echo($realpath)
