@@ -1,2 +1,2 @@
 #!/bin/bash
-path/to/script
+printf "/holbertonschool-shell/basics/0-current_working_directory"
