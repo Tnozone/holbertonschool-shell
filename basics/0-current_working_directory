@@ -1,2 +1,2 @@
 #!/bin/bash
-realpath="/holbertonschool-shell/basics/0-current_working_directory" echo($realpath) prinf"$realpath\n"
+realpath="/holbertonschool-shell/basics/0-current_working_directory" echo"$realpath" prinf"$realpath\n"
