@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $Num | printf "%.2f" 
+printf "%.2g\n" $NUM 
